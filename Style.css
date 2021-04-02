@@ -7,7 +7,7 @@
     background-color: #f0ffff;
 }
 body{
-    font-family: 'Nanum Pen Script', cursive;;    
+    font-family: 'Nanum Pen Script', cursive;    
     color: #e28711f6;
     font-size: 30px;
 }
@@ -28,12 +28,12 @@ footer{
 }
 h1{
     font-family:'Playfair Display' serif;
-    color: c;
+    color:#ff7f50;
     margin-bottom: 30px;
 }
 h3{
     font-family:'Josefin Sans', sans-serif;
-    color:tomato;
+    color:#ff6347;
     margin-bottom: 30px;
 }
 .content{
